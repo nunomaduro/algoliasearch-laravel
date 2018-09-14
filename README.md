@@ -4,7 +4,7 @@
 
 ---
 
-**This package is deprecated, we recommend you to use [Laravel Scout](https://laravel.com/docs/5.4/scout)**. If you want to extend Scout capabilities, please refer to [our dedicated documentation](https://www.algolia.com/doc/api-client/laravel/algolia-and-scout/)
+**This package is deprecated, we recommend you to use [Laravel Scout](https://laravel.com/docs/scout)**. If you want to extend Scout capabilities, please refer to [our dedicated documentation](https://www.algolia.com/doc/api-client/laravel/algolia-and-scout/)
 
 ---
 
